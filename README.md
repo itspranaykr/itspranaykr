@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 🤝 I’m looking to work on [SOLAR COMPANY WEBSITE](https://agsolar.in/)
+- 🤝 I’m currently work on [SOLAR COMPANY WEBSITE](https://agsolar.in/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/itspranaykr](https://github.com/itspranaykr)
 
