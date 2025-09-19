@@ -9,7 +9,7 @@ DSA
 Adapt in C,C++,python currently diving into Data Structures & Algorithms (DSA) to solidify my foundational knowledge. Recently embarked on my web development journey, eager to explore the exciting world of building interactive applications.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [ambitiousaayush8948@gmail.com](mailto:mrpranaykr26gmail@gmail.com)
+* ✉️  You can contact me at [mrpranaykr26gmail@gmail.com](mailto:mrpranaykr26gmail@gmail.com)
 * 🧠  I'm learning DSA and Web dev
 * 🤝  I'm open to collaborating on Frontend Development
 
