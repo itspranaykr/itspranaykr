@@ -3,19 +3,16 @@
 
 
 
-- 🔭 I’m currently studying at **KCC INSTITUTE OF TECHNOLOGY AND MANAGEMENT**
+DSA
+---
 
-- 🌱 I’m currently learning **DSA**
+Adapt in C,C++,python currently diving into Data Structures & Algorithms (DSA) to solidify my foundational knowledge. Recently embarked on my web development journey, eager to explore the exciting world of building interactive applications.
 
-- 🤝 I’m currently work on [SOLAR COMPANY WEBSITE](https://agsolar.in/)
+* 🌍  I'm based in India
+* ✉️  You can contact me at [ambitiousaayush8948@gmail.com](mailto:mrpranaykr26gmail@gmail.com)
+* 🧠  I'm learning DSA and Web dev
+* 🤝  I'm open to collaborating on Frontend Development
 
-- 👨‍💻 All of my projects are available at [https://github.com/itspranaykr](https://github.com/itspranaykr)
-
-- 📝 I regularly post achievement on [www.linkedin.com/in/pranay-kumar-784aa0312](www.linkedin.com/in/pranay-kumar-784aa0312)
-
-- 💬 Ask me about **HTML,CSS AND JS**
-
-- 📫 How to reach me **mrpranaykr26@gmail.com**
 
 - ⚡ Fun fact **I think i am enthusiastic to learn coding**
 ## 🌐 Socials:
