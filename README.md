@@ -14,7 +14,6 @@ Adapt in C,C++,python currently diving into Data Structures & Algorithms (DSA) t
 * 🤝  I'm open to collaborating on Frontend Development
 
 
-- ⚡ Fun fact **I think i am enthusiastic to learn coding**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itspranaykr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranay-kumar-784aa0312) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PranayKuma35714) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrpranaykr26@gmail.com)
 
